@@ -8427,3 +8427,75 @@ player_id,player_name,position,team,opponent_team,season,week,season_type,game_i
 00-0041579,Seydou Traore,TE,MIA,NE,2026,8,REG,2026_08_NE_MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.0,seydou traore
 00-0041581,Brett Thorson,P,MIN,DET,2026,8,REG,2026_08_MIN_DET,0,0,0,0,0,0,0,0,0,0,0,0,0.0,brett thorson
 ,,,CAR,GB,2026,8,REG,2026_08_CAR_GB,0,0,0,0,0,0,0,0,0,0,0,0,0.0,
+00-0026190,Calais Campbell,DE,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,calais campbell
+00-0030070,John Jenkins,DT,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,john jenkins
+00-0032104,Ameer Abdullah,RB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,7,30,0,0,0,0,0,3.0,ameer abdullah
+00-0032164,Arik Armstead,DT,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,arik armstead
+00-0032764,Derrick Henry,RB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,1,1,-3,0,0,17,57,0,0,0,0,0,5.58,derrick henry
+00-0032965,Ronnie Stanley,OT,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,ronnie stanley
+00-0033281,Marlon Humphrey,CB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,marlon humphrey
+00-0033548,Chidobe Awuzie,CB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,chidobe awuzie
+00-0033928,Jourdan Lewis,CB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jourdan lewis
+00-0033935,Trey Hendrickson,LB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,trey hendrickson
+00-0034413,Foyesade Oluokun,LB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,foyesade oluokun
+00-0034437,Logan Cooke,P,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,logan cooke
+00-0034473,Dennis Gardeck,LB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,dennis gardeck
+00-0034657,Matt Dickerson,DT,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,matt dickerson
+00-0034753,Mark Andrews,TE,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,2,0,0,2,2,19,0,3.9,mark andrews
+00-0034874,Roquan Smith,ILB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,roquan smith
+00-0034960,Jakobi Meyers,WR,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,6,4,65,0,10.5,jakobi meyers
+00-0034975,Justice Hill,RB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,9,85,1,3,3,7,0,18.2,justice hill
+00-0035240,Jahlani Tavai,LB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jahlani tavai
+00-0035408,Nick Moore,LS,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,nick moore
+00-0035642,Josh Hines-Allen,DE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,josh hines allen
+00-0036081,Broderick Washington,DT,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,broderick washington
+00-0036130,Nnamdi Madubuike,DT,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,nnamdi madubuike
+00-0036395,K'Von Wallace,SAF,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,kvon wallace
+00-0036550,Rashod Bateman,WR,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,2,1,6,0,1.6,rashod bateman
+00-0036590,Quintin Morris,TE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,quintin morris
+00-0036971,Trevor Lawrence,QB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,16,26,242,1,0,1,-1,0,0,0,0,0,13.58,trevor lawrence
+00-0037106,Jaylon Jones,DB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jaylon jones
+00-0037235,Travon Walker,DE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,travon walker
+00-0037313,Montaric Brown,CB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,montaric brown
+00-0037756,Travis Jones,DT,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,travis jones
+00-0038038,Kyle Hamilton,SAF,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,kyle hamilton
+00-0038504,Trenton Simpson,LB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,trenton simpson
+00-0038562,Jake Moody,K,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jake moody
+00-0038570,Ventrell Miller,LB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,ventrell miller
+00-0038596,Antonio Johnson,SAF,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,antonio johnson
+00-0038606,Parker Washington,WR,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,7,2,61,1,14.1,parker washington
+00-0038611,Chris Rodriguez Jr.,RB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,10,19,1,2,2,13,0,11.2,chris rodriguez
+00-0038823,Kaevon Merriweather,SAF,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,kaevon merriweather
+00-0038935,Brenton Strange,TE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,2,2,22,0,4.2,brenton strange
+00-0039064,Zay Flowers,WR,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,3,17,0,6,3,6,0,5.3,zay flowers
+00-0039234,T.J. Tampa,CB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,tj tampa
+00-0039353,Jarrian Jones,CB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jarrian jones
+00-0039409,Cam Little,K,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,cam little
+00-0039796,Rasheen Ali,RB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,rasheen ali
+00-0040069,Teddye Buchanan,LB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,teddye buchanan
+00-0040075,LaJohntay Wester,WR,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,1,1,14,0,2.4,lajohntay wester
+00-0040100,Jay Higgins,LB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jay higgins
+00-0040209,Jalen McLeod,LB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jalen mcleod
+00-0040213,Rayuan Lane III,SAF,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,rayuan lane
+00-0040238,LeQuint Allen Jr.,RB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,2,0,0,0,0.0,lequint allen
+00-0040326,Branson Combs,LB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,branson combs
+00-0040342,Danny Striggow,DE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,danny striggow
+00-0040636,Keyon Martin,CB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,keyon martin
+00-0040688,Malaki Starks,SAF,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,malaki starks
+00-0040718,Travis Hunter,CB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,1,1,-1,0,-1.1,travis hunter
+00-0040719,Bhayshul Tuten,RB,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,12,29,1,0,0,0,0,8.9,bhayshul tuten
+00-0040722,Mike Green,LB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,mike green
+00-0040870,Ja'Kobi Lane,WR,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jakobi lane
+00-0040879,Matthew Hibner,TE,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,2,1,5,0,1.5,matthew hibner
+00-0040885,Chandler Rivers,CB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,chandler rivers
+00-0040887,Josh Cuevas,TE,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,josh cuevas
+00-0040898,Ryan Eckley,P,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,ryan eckley
+00-0040978,Ethan Burke,LB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,ethan burke
+00-0040981,Joe Fagnano,QB,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,10,18,60,0,2,3,13,0,0,0,0,0,-0.3,joe fagnano
+00-0041045,Albert Regis,DT,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,albert regis
+00-0041050,Emmanuel Pregnon,G,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,emmanuel pregnon
+00-0041084,Tanner Koziol,TE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,2,2,15,0,3.5,tanner koziol
+00-0041100,Josh Cameron,WR,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,1,1,6,0,1.6,josh cameron
+00-0041218,Bryan Thomas Jr.,DE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,bryan thomas
+00-0041503,Nate Boerkircher,TE,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,3,2,61,0,8.1,nate boerkircher
+,,,JAX,BAL,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,
