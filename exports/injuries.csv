@@ -303,7 +303,6 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,6,BAL,00-0040722,Mike Green,LB,,,Full Participation in Practice
 2026,6,BAL,00-0040870,Ja'Kobi Lane,WR,Wrist,Questionable,Full Participation in Practice
 2026,6,BUF,00-0035253,C.J. Gardner-Johnson,S,,,Full Participation in Practice
-2026,6,BUF,00-0037254,Terrel Bernard,LB,,,Limited Participation in Practice
 2026,6,BUF,00-0037288,Christian Benford,CB,,,Full Participation in Practice
 2026,6,BUF,00-0040132,Landon Jackson,DE,,,Full Participation in Practice
 2026,6,CAR,00-0035890,Tershawn Wharton,DT,Neck,Questionable,Full Participation in Practice
@@ -641,7 +640,6 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,8,MIA,00-0038728,Jared Wayne,WR,,,Full Participation in Practice
 2026,8,MIA,00-0039156,Julius Brents,CB,Neck,Questionable,Full Participation in Practice
 2026,8,MIA,00-0039880,Malik Washington,WR,,,Full Participation in Practice
-2026,8,MIN,00-0029606,Harrison Smith,S,,,Limited Participation in Practice
 2026,8,MIN,00-0033293,Aaron Jones,RB,,,Full Participation in Practice
 2026,8,MIN,00-0034158,Brian O'Neill,T,,,Full Participation in Practice
 2026,8,MIN,00-0040215,Gavin Bartholomew,TE,,,Full Participation in Practice
@@ -716,7 +714,7 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,9,ATL,00-0040156,Billy Bowman Jr.,CB,,,Full Participation in Practice
 2026,9,ATL,00-0040432,Beaux Collins,WR,Hip,Questionable,Full Participation in Practice
 2026,9,ATL,00-0040578,James Pearce Jr.,DE,Back,Questionable,Limited Participation in Practice
-2026,9,ATL,00-0040687,Cameron Williams,T,Ankle,Questionable,Full Participation in Practice
+2026,9,ATL,00-0040687,Cameron Williams,T,Ankle,Out,Full Participation in Practice
 2026,9,ATL,00-0041044,Zachariah Branch,WR,Hamstring,Out,Did Not Participate In Practice
 2026,9,BAL,00-0026190,Calais Campbell,DT,,,Full Participation in Practice
 2026,9,BAL,00-0030070,John Jenkins,DT,,,Full Participation in Practice
@@ -736,23 +734,24 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,9,BAL,00-0040879,Matthew Hibner,TE,,,Full Participation in Practice
 2026,9,BAL,00-0040888,Adam Randall,RB,Neck,Questionable,Full Participation in Practice
 2026,9,BAL,00-0040981,Joe Fagnano,QB,,,Full Participation in Practice
-2026,9,BUF,00-0033904,Dion Dawkins,T,,,Did Not Participate In Practice
+2026,9,BUF,00-0033904,Dion Dawkins,T,Rib,Questionable,Did Not Participate In Practice
 2026,9,BUF,00-0034827,DJ Moore,WR,,,Limited Participation in Practice
 2026,9,BUF,00-0034832,Bradley Chubb,LB,,,Full Participation in Practice
-2026,9,BUF,00-0035230,Ed Oliver,DE,,,Full Participation in Practice
+2026,9,BUF,00-0035230,Ed Oliver,DE,,,Did Not Participate In Practice
 2026,9,BUF,00-0035537,Ty Johnson,RB,,,Full Participation in Practice
-2026,9,BUF,00-0035667,Greg Gaines,DT,,,Did Not Participate In Practice
-2026,9,BUF,00-0036037,Sam Franklin Jr.,S,,,Did Not Participate In Practice
-2026,9,BUF,00-0036976,Spencer Brown,T,,,Limited Participation in Practice
-2026,9,BUF,00-0036988,Josh Palmer,WR,,,Did Not Participate In Practice
+2026,9,BUF,00-0035667,Greg Gaines,DT,Calf,Questionable,Limited Participation in Practice
+2026,9,BUF,00-0036037,Sam Franklin Jr.,S,,,Full Participation in Practice
+2026,9,BUF,00-0036976,Spencer Brown,T,,,Full Participation in Practice
+2026,9,BUF,00-0036988,Josh Palmer,WR,Hamstring,Out,Did Not Participate In Practice
 2026,9,BUF,00-0037034,Dee Alford,CB,,,Full Participation in Practice
-2026,9,BUF,00-0037261,Khalil Shakir,WR,,,Did Not Participate In Practice
-2026,9,BUF,00-0037428,Alec Anderson,G,,,Did Not Participate In Practice
-2026,9,BUF,00-0038679,Tyrell Shavers,WR,,,Full Participation in Practice
+2026,9,BUF,00-0037254,Terrel Bernard,LB,,,Did Not Participate In Practice
+2026,9,BUF,00-0037261,Khalil Shakir,WR,,,Full Participation in Practice
+2026,9,BUF,00-0037428,Alec Anderson,G,Ankle,Questionable,Limited Participation in Practice
+2026,9,BUF,00-0038679,Tyrell Shavers,WR,Knee,Questionable,Full Participation in Practice
 2026,9,BUF,00-0038933,Dalton Kincaid,TE,,,Full Participation in Practice
 2026,9,BUF,00-0039763,Joe Andreessen,LB,,,Full Participation in Practice
 2026,9,BUF,00-0039901,Keon Coleman,WR,,,Limited Participation in Practice
-2026,9,BUF,00-0040192,Jordan Hancock,CB,,,Limited Participation in Practice
+2026,9,BUF,00-0040192,Jordan Hancock,CB,Hamstring,Questionable,Limited Participation in Practice
 2026,9,BUF,00-0040710,Deone Walker,DT,,,Full Participation in Practice
 2026,9,BUF,00-0040724,T.J. Sanders,DE,,,Full Participation in Practice
 2026,9,BUF,00-0041036,TJ Parker,LB,,,Full Participation in Practice
@@ -844,9 +843,9 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,9,GB,00-0039867,Javon Bullard,S,,,Did Not Participate In Practice
 2026,9,HOU,00-0034836,Braden Smith,T,,,Full Participation in Practice
 2026,9,HOU,00-0035166,Azeez Al-Shaair,LB,,,Full Participation in Practice
-2026,9,HOU,00-0035685,David Montgomery,RB,,,Did Not Participate In Practice
+2026,9,HOU,00-0035685,David Montgomery,RB,Groin,Out,Did Not Participate In Practice
 2026,9,HOU,00-0036556,Brevin Jordan,TE,,,Full Participation in Practice
-2026,9,HOU,00-0037130,Reed Blankenship,S,,,Did Not Participate In Practice
+2026,9,HOU,00-0037130,Reed Blankenship,S,Concussion,Out,Did Not Participate In Practice
 2026,9,HOU,00-0037246,Jalen Pitre,S,,,Full Participation in Practice
 2026,9,HOU,00-0039857,Blake Fisher,T,,,Full Participation in Practice
 2026,9,IND,00-0030279,Keenan Allen,WR,,,Full Participation in Practice
@@ -859,7 +858,7 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,9,IND,00-0039816,Anthony Gould,WR,,,Full Participation in Practice
 2026,9,IND,00-0040139,Justin Walley,CB,Knee,Out,Did Not Participate In Practice
 2026,9,IND,00-0040163,Jalen Travis,T,Thumb,Questionable,Full Participation in Practice
-2026,9,IND,00-0041043,A.J. Haulcy,S,Ankle,Questionable,Limited Participation in Practice
+2026,9,IND,00-0041043,A.J. Haulcy,S,Ankle,Out,Limited Participation in Practice
 2026,9,IND,00-0041518,Bryce Boettcher,LB,,,Full Participation in Practice
 2026,9,JAX,00-0033038,Eric Murray,S,,,Did Not Participate In Practice
 2026,9,JAX,00-0034960,Jakobi Meyers,WR,,,Limited Participation in Practice
@@ -925,16 +924,17 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,9,MIA,00-0041521,Kadyn Proctor,T,,,Full Participation in Practice
 2026,9,MIA,00-0041524,Will Kacmarek,TE,,,Full Participation in Practice
 2026,9,MIA,00-0041528,Michael Taaffe,S,,,Full Participation in Practice
-2026,9,MIN,00-0035228,Kyler Murray,QB,,,Did Not Participate In Practice
-2026,9,MIN,00-0035272,Andrew Van Ginkel,LB,,,Limited Participation in Practice
+2026,9,MIN,00-0029606,Harrison Smith,S,,,Limited Participation in Practice
+2026,9,MIN,00-0035228,Kyler Murray,QB,Hamstring,Out,Did Not Participate In Practice
+2026,9,MIN,00-0035272,Andrew Van Ginkel,LB,,,Full Participation in Practice
 2026,9,MIN,00-0036222,Isaiah Rodgers,CB,,,Full Participation in Practice
-2026,9,MIN,00-0036259,Jauan Jennings,WR,,,Did Not Participate In Practice
-2026,9,MIN,00-0036616,Christian Darrisaw,T,,,Full Participation in Practice
-2026,9,MIN,00-0037301,Theo Jackson,S,,,Did Not Participate In Practice
-2026,9,MIN,00-0038578,Jay Ward,S,,,Limited Participation in Practice
-2026,9,MIN,00-0041104,Demond Claiborne,RB,,,Did Not Participate In Practice
+2026,9,MIN,00-0036259,Jauan Jennings,WR,Calf,Out,Did Not Participate In Practice
+2026,9,MIN,00-0036616,Christian Darrisaw,T,,,Did Not Participate In Practice
+2026,9,MIN,00-0037301,Theo Jackson,S,Quadricep,Questionable,Limited Participation in Practice
+2026,9,MIN,00-0038578,Jay Ward,S,Knee,Questionable,Limited Participation in Practice
+2026,9,MIN,00-0041104,Demond Claiborne,RB,Knee,Out,Did Not Participate In Practice
 2026,9,MIN,00-0041495,Jake Golday,LB,,,Full Participation in Practice
-2026,9,NE,00-0029685,Greg Van Roten,G,Hamstring,Questionable,Limited Participation in Practice
+2026,9,NE,00-0029685,Greg Van Roten,G,Hamstring,Out,Limited Participation in Practice
 2026,9,NE,00-0031330,Morgan Moses,T,Foot,Questionable,Limited Participation in Practice
 2026,9,NE,00-0033090,Hunter Henry,TE,Foot,Questionable,Limited Participation in Practice
 2026,9,NE,00-0033132,Kevin Byard,S,Chest,Questionable,Full Participation in Practice
@@ -975,14 +975,14 @@ season,week,team,player_id,player_name,position,report_primary_injury,report_sta
 2026,9,NYG,00-0041462,Colton Hood,CB,,,Full Participation in Practice
 2026,9,NYJ,00-0029607,Demario Davis,LB,,,Full Participation in Practice
 2026,9,NYJ,00-0034782,Harrison Phillips,DT,Ankle,Questionable,Full Participation in Practice
-2026,9,NYJ,00-0036902,Joseph Ossai,DE,Ankle,Questionable,Limited Participation in Practice
-2026,9,NYJ,00-0036986,Nahshon Wright,CB,Back,Questionable,Did Not Participate In Practice
+2026,9,NYJ,00-0036902,Joseph Ossai,DE,Ankle,Out,Limited Participation in Practice
+2026,9,NYJ,00-0036986,Nahshon Wright,CB,Back,Out,Did Not Participate In Practice
 2026,9,NYJ,00-0037740,Garrett Wilson,WR,Concussion,Out,Did Not Participate In Practice
 2026,9,NYJ,00-0038120,Breece Hall,RB,,,Full Participation in Practice
 2026,9,NYJ,00-0039347,Trevin Wallace,LB,Groin,Out,Did Not Participate In Practice
 2026,9,NYJ,00-0040736,Mason Taylor,TE,,,Full Participation in Practice
 2026,9,NYJ,00-0041026,David Bailey,DE,,,Full Participation in Practice
-2026,9,NYJ,00-0041120,VJ Payne,S,Knee,Questionable,Full Participation in Practice
+2026,9,NYJ,00-0041120,VJ Payne,S,Knee,Out,Full Participation in Practice
 2026,9,PHI,00-0032580,Jonathan Jones,CB,Hamstring,Out,Did Not Participate In Practice
 2026,9,PHI,00-0033393,Kenny Moore II,CB,,,Full Participation in Practice
 2026,9,PHI,00-0033787,Jake Elliott,K,,,Full Participation in Practice
