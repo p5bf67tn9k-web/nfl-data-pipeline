@@ -8886,7 +8886,7 @@ player_id,player_name,position,team,opponent_team,season,week,season_type,game_i
 00-0037756,Travis Jones,DT,BAL,JAX,2026,9,REG,2026_09_JAX_BAL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,travis jones
 00-0037757,Bernhard Raimann,OT,IND,DAL,2026,9,REG,2026_09_DAL_IND,0,0,0,0,0,0,0,0,0,0,0,0,0.0,bernhard raimann
 00-0037799,Dondrea Tillman,LB,DEN,CAR,2026,9,REG,2026_09_DEN_CAR,0,0,0,0,0,0,0,0,0,0,0,0,0.0,dondrea tillman
-00-0037809,Chig Okonkwo,TE,WAS,LA,2026,9,REG,2026_09_LA_WAS,0,0,0,0,0,0,0,0,7,6,56,0,11.6,chig okonkwo
+00-0037809,Chig Okonkwo,TE,WAS,LA,2026,9,REG,2026_09_LA_WAS,0,0,0,0,0,0,0,0,7,6,57,0,11.7,chig okonkwo
 00-0037815,Cameron Thomas,DE,ATL,CIN,2026,9,REG,2026_09_CIN_ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,cameron thomas
 00-0037818,Zion Johnson,G,CLE,NO,2026,9,REG,2026_09_CLE_NO,0,0,0,0,0,0,0,0,0,0,0,0,0.0,zion johnson
 00-0037834,Brock Purdy,QB,SF,LV,2026,9,REG,2026_09_LV_SF,17,25,232,2,1,7,40,1,0,0,0,0,25.28,brock purdy
@@ -9165,7 +9165,7 @@ player_id,player_name,position,team,opponent_team,season,week,season_type,game_i
 00-0039901,Keon Coleman,WR,BUF,MIN,2026,9,REG,2026_09_BUF_MIN,0,0,0,0,0,0,0,0,6,3,17,0,4.7,keon coleman
 00-0039906,Jer'Zhan Newton,DT,WAS,LA,2026,9,REG,2026_09_LA_WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jerzhan newton
 00-0039908,Kris Jenkins,DT,CIN,ATL,2026,9,REG,2026_09_CIN_ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,kris jenkins
-00-0039910,Jayden Daniels,QB,WAS,LA,2026,9,REG,2026_09_LA_WAS,24,35,273,1,0,4,16,0,0,0,0,0,14.52,jayden daniels
+00-0039910,Jayden Daniels,QB,WAS,LA,2026,9,REG,2026_09_LA_WAS,24,35,274,1,0,4,16,0,0,0,0,0,14.56,jayden daniels
 00-0039911,Chop Robinson,LB,MIA,DET,2026,9,REG,2026_09_DET_MIA,0,0,0,0,0,0,0,0,0,0,0,0,0.0,chop robinson
 00-0039913,Brandon Coleman,G,WAS,LA,2026,9,REG,2026_09_LA_WAS,0,0,0,0,0,0,0,0,0,0,0,0,0.0,brandon coleman
 00-0039917,Michael Penix Jr.,QB,ATL,CIN,2026,9,REG,2026_09_CIN_ATL,20,31,162,1,1,3,50,0,0,0,0,0,13.48,michael penix
