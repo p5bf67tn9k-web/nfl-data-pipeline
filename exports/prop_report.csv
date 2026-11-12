@@ -105,7 +105,7 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Travis Kelce,TE,KC,receptions,3.5,-115,-120,1,3.8,4.1,4,5,0.3,0.8,4/5,ATL,
 10,Tre Tucker,WR,LV,receptions,3.5,152,-163,3,3.6,3.7,4,5,0.1,0.8,4/5,SEA,
 10,Jordan Watkins,WR,SF,reception_yds,25.5,-111,-113,3,56.0,56.0,3,4,30.5,0.75,3/4,DAL,
-10,Omar Cooper Jr.,WR,NYJ,reception_yds,48.5,-115,-112,2,76.5,76.5,3,4,28.0,0.75,3/4,BUF,Questionable
+10,Omar Cooper Jr.,WR,NYJ,reception_yds,48.5,-115,-112,2,76.5,76.5,3,4,28.0,0.75,3/4,BUF,
 10,Theo Johnson,TE,NYG,reception_yds,0.5,-110,-120,1,13.8,13.8,3,4,13.2,0.75,3/4,WAS,
 10,Savion Williams,WR,GB,reception_yds,17.5,-111,-110,3,27.2,27.2,3,4,9.8,0.75,3/4,MIN,
 10,Dylan Sampson,RB,CLE,reception_yds,24.5,-110,-110,3,30.2,30.2,3,4,5.8,0.75,3/4,HOU,
@@ -141,13 +141,13 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Trey McBride,TE,ARI,reception_yds,59.5,-112,-112,3,71.2,66.4,3,5,11.7,0.6,3/5,LA,
 10,Elijah Higgins,TE,ARI,reception_yds,13.5,-109,-113,3,24.6,20.2,3,5,11.1,0.6,3/5,LA,
 10,Rome Odunze,WR,CHI,reception_yds,48.5,-110,-113,3,59.0,58.7,3,5,10.5,0.6,3/5,,Questionable
-10,Hunter Henry,TE,NE,reception_yds,35.5,-110,-113,3,45.6,40.1,3,5,10.1,0.6,3/5,DET,Questionable
+10,Hunter Henry,TE,NE,reception_yds,35.5,-110,-113,3,45.6,40.1,3,5,10.1,0.6,3/5,DET,
 10,Eli Raridon,TE,NE,reception_yds,26.5,-109,-113,2,36.2,28.1,3,5,9.7,0.6,3/5,DET,Questionable
 10,Tutu Atwell,WR,LA,reception_yds,10.5,-115,-110,3,19.8,19.8,3,5,9.3,0.6,3/5,ARI,
 10,James Cook,RB,BUF,rush_yds,84.5,-110,-114,3,93.6,101.8,3,5,9.1,0.6,3/5,NYJ,
 10,Michael Wilson,WR,ARI,reception_yds,48.5,-113,-111,3,57.6,60.7,3,5,9.1,0.6,3/5,LA,
 10,Chuba Hubbard,RB,CAR,reception_yds,9.5,-114,-111,3,18.0,20.9,3,5,8.5,0.6,3/5,NO,
-10,Colby Parkinson,TE,LA,reception_yds,10.5,-110,-115,3,19.0,16.6,3,5,8.5,0.6,3/5,ARI,Questionable
+10,Colby Parkinson,TE,LA,reception_yds,10.5,-110,-115,3,19.0,16.6,3,5,8.5,0.6,3/5,ARI,
 10,Efton Chism III,WR,NE,reception_yds,23.5,-113,-110,3,31.8,25.0,3,5,8.3,0.6,3/5,DET,
 10,Tre Harris,WR,LAC,reception_yds,29.5,-110,-113,3,37.8,37.4,3,5,8.3,0.6,3/5,BAL,
 10,Brevyn Spann-Ford,TE,DAL,reception_yds,11.5,-115,-112,2,19.4,14.4,3,5,7.9,0.6,3/5,SF,
@@ -214,13 +214,13 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Makai Lemon,WR,PHI,receptions,5.5,-125,-110,1,5.4,4.1,3,5,-0.1,0.6,3/5,,
 10,Tucker Kraft,TE,GB,receptions,4.5,100,-113,3,4.2,4.0,3,5,-0.3,0.6,3/5,MIN,
 10,Colston Loveland,TE,CHI,receptions,5.5,110,-123,3,5.2,4.1,3,5,-0.3,0.6,3/5,,
-10,Colby Parkinson,TE,LA,receptions,3.5,-120,-115,1,3.0,2.6,3,5,-0.5,0.6,3/5,ARI,Questionable
+10,Colby Parkinson,TE,LA,receptions,3.5,-120,-115,1,3.0,2.6,3,5,-0.5,0.6,3/5,ARI,
 10,Brandin Cooks,WR,SF,reception_yds,12.5,-108,100,3,11.6,11.6,3,5,-0.9,0.6,3/5,DAL,
 10,Christian McCaffrey,RB,SF,rush_yds,61.5,-111,-113,3,58.2,57.1,3,5,-3.3,0.6,3/5,DAL,
 10,Tucker Kraft,TE,GB,reception_yds,45.5,-113,-110,3,40.6,39.0,3,5,-4.9,0.6,3/5,MIN,
 10,Tyler Shough,QB,NO,pass_yds,223.5,-114,-114,3,213.8,248.2,3,5,-9.7,0.6,3/5,CAR,
 10,Bo Nix,QB,DEN,pass_yds,196.5,-114,-115,3,182.2,192.2,3,5,-14.3,0.6,3/5,,
-10,Tank Dell,WR,HOU,reception_yds,15.5,-112,-112,3,74.0,74.0,2,2,58.5,1.0,2/2,CLE,Questionable
+10,Tank Dell,WR,HOU,reception_yds,15.5,-112,-112,3,74.0,74.0,2,2,58.5,1.0,2/2,CLE,
 10,Zach Charbonnet,RB,SEA,reception_yds,5.5,-105,-108,3,7.5,7.5,2,2,2.0,1.0,2/2,LV,
 10,Ben Yurosek,TE,MIN,reception_yds,1.5,-108,-110,3,11.3,11.3,2,3,9.8,0.67,2/3,GB,Questionable
 10,Jack Bech,WR,LV,reception_yds,10.5,-110,-113,3,19.0,19.0,2,3,8.5,0.67,2/3,SEA,Questionable
@@ -229,7 +229,7 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Jack Bech,WR,LV,receptions,1.5,110,-125,3,2.0,2.0,2,3,0.5,0.67,2/3,SEA,Questionable
 10,Ben Yurosek,TE,MIN,receptions,0.5,-122,110,3,0.7,0.7,2,3,0.2,0.67,2/3,GB,Questionable
 10,Josh Jacobs,RB,GB,receptions,3.5,105,-120,3,3.7,3.7,2,3,0.2,0.67,2/3,MIN,
-10,Demarcus Robinson,WR,SF,receptions,2.5,-119,100,3,2.7,2.7,2,3,0.2,0.67,2/3,DAL,Questionable
+10,Demarcus Robinson,WR,SF,receptions,2.5,-119,100,3,2.7,2.7,2,3,0.2,0.67,2/3,DAL,
 10,Dylan Sampson,RB,CLE,rush_yds,15.5,-110,-115,3,18.2,18.2,2,4,2.8,0.5,2/4,HOU,
 10,J.J. McCarthy,QB,NYG,rush_yds,11.5,-112,-118,2,12.8,12.8,2,4,1.2,0.5,2/4,WAS,
 10,Jordan Mason,RB,MIN,rush_yds,46.5,-114,-110,3,45.5,45.5,2,4,-1.0,0.5,2/4,GB,Questionable
@@ -248,7 +248,7 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Keon Coleman,WR,BUF,reception_yds,28.5,-113,-111,3,40.6,38.0,2,5,12.1,0.4,2/5,NYJ,
 10,Tyler Higbee,TE,LA,reception_yds,18.5,-114,-114,3,29.2,35.9,2,5,10.7,0.4,2/5,ARI,
 10,James Cook,RB,BUF,reception_yds,8.5,-110,-110,3,18.8,13.8,2,5,10.3,0.4,2/5,NYJ,
-10,Rhamondre Stevenson,RB,NE,reception_yds,23.5,-113,-111,3,33.6,28.7,2,5,10.1,0.4,2/5,DET,Questionable
+10,Rhamondre Stevenson,RB,NE,reception_yds,23.5,-113,-111,3,33.6,28.7,2,5,10.1,0.4,2/5,DET,
 10,Malik Willis,QB,MIA,rush_yds,16.5,-110,-118,3,26.2,29.0,2,5,9.7,0.4,2/5,IND,
 10,T.J. Hockenson,TE,MIN,reception_yds,41.5,-110,-114,3,50.4,41.0,2,5,8.9,0.4,2/5,GB,
 10,Keaton Mitchell,RB,LAC,rush_yds,11.5,-113,-106,3,18.6,22.2,2,5,7.1,0.4,2/5,BAL,
@@ -265,13 +265,13 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,C.J. Stroud,QB,HOU,rush_yds,7.5,-113,-109,3,9.2,12.5,2,5,1.7,0.4,2/5,CLE,
 10,Harold Fannin Jr.,TE,CLE,receptions,2.5,120,-165,1,4.0,4.1,2,5,1.5,0.4,2/5,HOU,
 10,Tyler Shough,QB,NO,rush_yds,17.5,-120,-110,2,19.0,20.2,2,5,1.5,0.4,2/5,CAR,
-10,Amon-Ra St. Brown,WR,DET,reception_yds,84.5,-114,-114,3,85.8,82.1,2,5,1.3,0.4,2/5,NE,Questionable
+10,Amon-Ra St. Brown,WR,DET,reception_yds,84.5,-114,-114,3,85.8,82.1,2,5,1.3,0.4,2/5,NE,
 10,Kimani Vidal,RB,LAC,reception_yds,7.5,-111,-105,3,8.4,8.0,2,5,0.9,0.4,2/5,BAL,
 10,Roschon Johnson,RB,CHI,rush_yds,16.5,-113,-110,3,17.4,14.7,2,5,0.9,0.4,2/5,,
 10,Rashee Rice,WR,KC,reception_yds,57.5,-118,-112,2,58.4,58.4,2,5,0.9,0.4,2/5,ATL,
 10,Michael Wilson,WR,ARI,receptions,4.5,105,-132,3,5.2,5.7,2,5,0.7,0.4,2/5,LA,
 10,Chris Bell,WR,MIA,reception_yds,10.5,-115,-111,2,11.2,18.5,2,5,0.7,0.4,2/5,IND,
-10,Hunter Henry,TE,NE,receptions,3.5,-117,-106,3,4.0,3.6,2,5,0.5,0.4,2/5,DET,Questionable
+10,Hunter Henry,TE,NE,receptions,3.5,-117,-106,3,4.0,3.6,2,5,0.5,0.4,2/5,DET,
 10,Dawson Knox,TE,BUF,receptions,1.5,180,-220,3,1.8,1.6,2,5,0.3,0.4,2/5,NYJ,
 10,Cooper Kupp,WR,SEA,reception_yds,24.5,-110,-111,3,24.8,26.4,2,5,0.3,0.4,2/5,LV,
 10,Jaxon Smith-Njigba,WR,SEA,receptions,7.5,120,118,3,7.8,7.9,2,5,0.3,0.4,2/5,LV,
@@ -344,7 +344,7 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Jonah Coleman,RB,DEN,rush_yds,46.5,-111,-114,3,38.2,38.2,2,5,-8.3,0.4,2/5,,Questionable
 10,Woody Marks,RB,HOU,rush_yds,63.5,-110,-113,3,55.2,42.6,2,5,-8.3,0.4,2/5,CLE,
 10,Austin Ekeler,RB,WAS,rush_yds,25.5,-114,-114,2,16.6,16.6,2,5,-8.9,0.4,2/5,NYG,
-10,Rhamondre Stevenson,RB,NE,rush_yds,56.5,-109,-111,3,47.2,44.3,2,5,-9.3,0.4,2/5,DET,Questionable
+10,Rhamondre Stevenson,RB,NE,rush_yds,56.5,-109,-111,3,47.2,44.3,2,5,-9.3,0.4,2/5,DET,
 10,Juwan Johnson,TE,NO,reception_yds,32.5,-114,-114,3,23.2,36.1,2,5,-9.3,0.4,2/5,CAR,
 10,D'Andre Swift,RB,CHI,rush_yds,62.5,-113,-110,3,53.0,64.0,2,5,-9.5,0.4,2/5,,
 10,Ted Hurst III,WR,TB,reception_yds,22.5,-110,-113,3,13.0,21.0,2,5,-9.5,0.4,2/5,,
@@ -361,14 +361,17 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Joe Milton,QB,PHI,pass_yds,160.5,-114,-114,2,169.0,169.0,1,1,8.5,1.0,1/1,,
 10,Jordyn Tyson,WR,NO,receptions,2.5,115,-155,1,4.0,4.0,1,1,1.5,1.0,1/1,CAR,Questionable
 10,Zach Charbonnet,RB,SEA,rush_yds,35.5,-112,-112,3,50.0,50.0,1,2,14.5,0.5,1/2,LV,
+10,Audric Estime,RB,NO,reception_yds,0.5,152,-170,2,2.5,2.5,1,2,2.0,0.5,1/2,CAR,Out
 10,Gardner Minshew II,QB,ARI,pass_tds,0.5,-213,175,3,1.5,1.5,1,2,1.0,0.5,1/2,LA,
-10,Tank Dell,WR,HOU,receptions,1.5,122,-154,3,2.5,2.5,1,2,1.0,0.5,1/2,CLE,Questionable
+10,Tank Dell,WR,HOU,receptions,1.5,122,-154,3,2.5,2.5,1,2,1.0,0.5,1/2,CLE,
 10,Zach Charbonnet,RB,SEA,receptions,1.5,115,-137,3,2.0,2.0,1,2,0.5,0.5,1/2,LV,
+10,Audric Estime,RB,NO,receptions,0.5,105,-145,1,0.5,0.5,1,2,0.0,0.5,1/2,CAR,Out
 10,Van Jefferson,WR,WAS,receptions,4.5,165,-220,1,2.5,2.5,1,2,-2.0,0.5,1/2,NYG,
 10,Van Jefferson,WR,WAS,reception_yds,32.5,-120,-110,2,29.0,29.0,1,2,-3.5,0.5,1/2,NYG,
+10,Audric Estime,RB,NO,rush_yds,65.5,-114,-114,2,45.5,45.5,1,2,-20.0,0.5,1/2,CAR,Out
 10,Elijah Mitchell,RB,PHI,rush_yds,14.5,-108,-110,2,17.0,17.0,1,3,2.5,0.33,1/3,,
 10,Josh Jacobs,RB,GB,reception_yds,20.5,-110,-113,3,22.7,22.7,1,3,2.2,0.33,1/3,MIN,
-10,Demarcus Robinson,WR,SF,reception_yds,34.5,-113,-105,3,35.3,35.3,1,3,0.8,0.33,1/3,DAL,Questionable
+10,Demarcus Robinson,WR,SF,reception_yds,34.5,-113,-105,3,35.3,35.3,1,3,0.8,0.33,1/3,DAL,
 10,Drew Lock,QB,SEA,pass_yds,198.5,-111,-113,3,199.0,199.0,1,3,0.5,0.33,1/3,LV,
 10,Drew Lock,QB,SEA,pass_tds,1.5,-105,-106,3,1.7,1.7,1,3,0.2,0.33,1/3,LV,
 10,Shedeur Sanders,QB,CLE,pass_tds,0.5,-105,-130,1,0.7,0.7,1,3,0.2,0.33,1/3,HOU,
@@ -377,14 +380,14 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Shedeur Sanders,QB,CLE,rush_yds,19.5,-110,-111,3,9.3,9.3,1,3,-10.2,0.33,1/3,HOU,
 10,Shedeur Sanders,QB,CLE,pass_yds,132.5,-115,-114,2,99.7,99.7,1,3,-32.8,0.33,1/3,HOU,
 10,J.J. McCarthy,QB,NYG,pass_tds,0.5,-150,110,1,0.2,0.2,1,4,-0.2,0.25,1/4,WAS,
-10,Omar Cooper Jr.,WR,NYJ,receptions,7.5,105,-140,1,5.0,5.0,1,4,-2.5,0.25,1/4,BUF,Questionable
-10,Trevor Etienne,RB,CAR,rush_yds,7.5,100,-115,2,3.8,3.8,1,4,-3.8,0.25,1/4,NO,Questionable
+10,Omar Cooper Jr.,WR,NYJ,receptions,7.5,105,-140,1,5.0,5.0,1,4,-2.5,0.25,1/4,BUF,
+10,Trevor Etienne,RB,CAR,rush_yds,7.5,100,-115,2,3.8,3.8,1,4,-3.8,0.25,1/4,NO,
 10,Breece Hall,RB,NYJ,rush_yds,64.5,-115,-112,2,56.0,56.0,1,4,-8.5,0.25,1/4,BUF,
 10,Jadarian Price,RB,SEA,reception_yds,9.5,-113,-109,3,16.6,16.6,1,5,7.1,0.2,1/5,LV,
 10,Josh Allen,QB,BUF,rush_yds,30.5,-114,-109,3,34.2,35.6,1,5,3.7,0.2,1/5,NYJ,
 10,Ray Davis,RB,BUF,rush_yds,5.5,-113,-111,2,8.2,6.3,1,5,2.7,0.2,1/5,NYJ,
 10,Tyler Allgeier,RB,ARI,rush_yds,49.5,-112,-111,3,51.4,41.0,1,5,1.9,0.2,1/5,LA,
-10,Sione Vaki,RB,DET,rush_yds,17.5,-118,-110,2,19.0,16.9,1,5,1.5,0.2,1/5,NE,Questionable
+10,Sione Vaki,RB,DET,rush_yds,17.5,-118,-110,2,19.0,16.9,1,5,1.5,0.2,1/5,NE,
 10,T.J. Hockenson,TE,MIN,receptions,4.5,105,-114,3,5.2,4.4,1,5,0.7,0.2,1/5,GB,
 10,Jalen Coker,WR,CAR,reception_yds,37.5,-111,-115,3,37.8,56.1,1,5,0.3,0.2,1/5,NO,
 10,Ollie Gordon II,RB,MIA,reception_yds,1.5,-110,-110,2,1.8,3.3,1,5,0.3,0.2,1/5,IND,
@@ -397,13 +400,13 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Jalen Nailor,WR,LV,receptions,2.5,149,135,3,2.0,2.0,1,5,-0.5,0.2,1/5,SEA,
 10,KC Concepcion,WR,CLE,receptions,4.5,140,-190,1,4.0,4.1,1,5,-0.5,0.2,1/5,HOU,
 10,Saquon Barkley,RB,PHI,receptions,1.5,160,-215,1,1.0,1.0,1,5,-0.5,0.2,1/5,,
-10,Rhamondre Stevenson,RB,NE,receptions,3.5,-110,-111,3,2.8,2.9,1,5,-0.7,0.2,1/5,DET,Questionable
+10,Rhamondre Stevenson,RB,NE,receptions,3.5,-110,-111,3,2.8,2.9,1,5,-0.7,0.2,1/5,DET,
 10,Ryan Flournoy,WR,DAL,receptions,4.5,130,-175,1,3.8,3.6,1,5,-0.7,0.2,1/5,SF,
 10,Bucky Irving,RB,TB,receptions,2.5,-102,-114,3,1.8,2.4,1,5,-0.7,0.2,1/5,,
 10,Woody Marks,RB,HOU,receptions,2.5,120,-150,3,1.6,1.9,1,5,-0.9,0.2,1/5,CLE,
 10,Dak Prescott,QB,DAL,pass_tds,2.5,145,-190,2,1.6,1.8,1,5,-0.9,0.2,1/5,SF,
-10,Jonathan Mingo,WR,DAL,receptions,1.5,-245,180,1,0.6,0.6,1,5,-0.9,0.2,1/5,SF,Questionable
-10,Amon-Ra St. Brown,WR,DET,receptions,8.5,110,-150,1,7.6,7.6,1,5,-0.9,0.2,1/5,NE,Questionable
+10,Jonathan Mingo,WR,DAL,receptions,1.5,-245,180,1,0.6,0.6,1,5,-0.9,0.2,1/5,SF,
+10,Amon-Ra St. Brown,WR,DET,receptions,8.5,110,-150,1,7.6,7.6,1,5,-0.9,0.2,1/5,NE,
 10,Nico Collins,WR,HOU,receptions,5.5,124,-150,3,4.2,4.7,1,5,-1.3,0.2,1/5,CLE,
 10,Jalen Coker,WR,CAR,receptions,4.5,130,-175,1,3.0,4.4,1,5,-1.5,0.2,1/5,NO,
 10,Kenyon Sadiq,TE,NYJ,receptions,3.5,125,-165,1,1.8,2.3,1,5,-1.7,0.2,1/5,BUF,Questionable
@@ -440,7 +443,7 @@ week,player,position,team,market,line,best_over,best_under,books,last5_avg,seaso
 10,Gardner Minshew II,QB,ARI,pass_yds,197.5,100,-112,3,177.0,177.0,0,2,-20.5,0.0,0/2,LA,
 10,Josh Jacobs,RB,GB,rush_yds,47.5,-112,-112,3,26.7,26.7,0,3,-20.8,0.0,0/3,MIN,
 10,Jadarian Price,RB,SEA,rush_yds,55.5,-113,-110,3,34.4,34.4,0,5,-21.1,0.0,0/5,LV,
-10,Jonathan Mingo,WR,DAL,reception_yds,31.5,-115,-112,3,8.6,7.6,0,5,-22.9,0.0,0/5,SF,Questionable
+10,Jonathan Mingo,WR,DAL,reception_yds,31.5,-115,-112,3,8.6,7.6,0,5,-22.9,0.0,0/5,SF,
 10,Kenneth Walker III,RB,KC,reception_yds,47.5,-115,-112,2,18.0,21.5,0,5,-29.5,0.0,0/5,ATL,
 10,Rachaad White,RB,WAS,reception_yds,50.5,-120,-110,2,16.8,18.4,0,5,-33.7,0.0,0/5,NYG,
 10,Carson Wentz,QB,MIN,pass_yds,209.5,-113,-111,3,119.0,119.0,0,3,-90.5,0.0,0/3,GB,

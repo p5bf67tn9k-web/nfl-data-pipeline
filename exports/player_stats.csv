@@ -6133,7 +6133,7 @@ player_id,player_name,position,team,opponent_team,season,week,season_type,game_i
 00-0039369,Cam Hart,CB,LAC,KC,2026,6,REG,2026_06_LAC_KC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,cam hart
 00-0039371,Kris Abrams-Draine,CB,DEN,SEA,2026,6,REG,2026_06_SEA_DEN,0,0,0,0,0,0,0,0,0,0,0,0,0.0,kris abrams draine
 00-0039372,Jarvis Brownlee Jr.,DB,NYJ,NE,2026,6,REG,2026_06_NYJ_NE,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jarvis brownlee
-00-0039373,Audric Estimé,RB,CLE,BAL,2026,6,REG,2026_06_BAL_CLE,0,0,0,0,0,9,19,1,0,0,0,0,7.9,audric estim
+00-0039373,Audric Estime,RB,CLE,BAL,2026,6,REG,2026_06_BAL_CLE,0,0,0,0,0,9,19,1,0,0,0,0,7.9,audric estime
 00-0039374,Tommy Eichenberg,LB,LV,BUF,2026,6,REG,2026_06_BUF_LV,0,0,0,0,0,0,0,0,0,0,0,0,0.0,tommy eichenberg
 00-0039384,Tyrone Tracy Jr.,RB,NYG,NO,2026,6,REG,2026_06_NO_NYG,0,0,0,0,0,6,18,1,3,2,27,1,18.5,tyrone tracy
 00-0039388,Jaylan Ford,LB,NO,NYG,2026,6,REG,2026_06_NO_NYG,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jaylan ford
@@ -9071,7 +9071,7 @@ player_id,player_name,position,team,opponent_team,season,week,season_type,game_i
 00-0039366,Tarheeb Still,CB,LAC,HOU,2026,9,REG,2026_09_HOU_LAC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,tarheeb still
 00-0039369,Cam Hart,CB,LAC,HOU,2026,9,REG,2026_09_HOU_LAC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,cam hart
 00-0039372,Jarvis Brownlee Jr.,DB,NYJ,KC,2026,9,REG,2026_09_NYJ_KC,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jarvis brownlee
-00-0039373,Audric Estimé,RB,NO,CLE,2026,9,REG,2026_09_CLE_NO,0,0,0,0,0,15,72,1,1,1,5,0,14.7,audric estim
+00-0039373,Audric Estime,RB,NO,CLE,2026,9,REG,2026_09_CLE_NO,0,0,0,0,0,15,72,1,1,1,5,0,14.7,audric estime
 00-0039374,Tommy Eichenberg,LB,LV,SF,2026,9,REG,2026_09_LV_SF,0,0,0,0,0,0,0,0,0,0,0,0,0.0,tommy eichenberg
 00-0039375,Josh Newton,CB,CIN,ATL,2026,9,REG,2026_09_CIN_ATL,0,0,0,0,0,0,0,0,0,0,0,0,0.0,josh newton
 00-0039377,Jaylon Carlies,LB,IND,DAL,2026,9,REG,2026_09_DAL_IND,0,0,0,0,0,0,0,0,0,0,0,0,0.0,jaylon carlies
